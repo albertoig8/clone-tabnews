@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Primeira frase do peojeto</h1>
+    return <h1>Elnalva te amo!</h1>
 }
 
 export default Home;
